@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Hebe
-- 🎨 Cartographer and designer
-- 🌍 Major in GIS and visualization
+- 🎨 Cartographer and designer diving into geodata analysis
+- 🌍 Major in `GIS` and `urban spatial analytics`
+- 🧠 Always curious about the world, next step maybe `digital humanities`? I don't know.
 - 📫 ins：Shevil__
 
 <!---

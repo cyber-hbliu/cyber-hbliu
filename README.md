@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Haobing Liu, and friends call me Hebe
-- 🎨 Cartographer and designer diving into geodata analysis
-- 🌍 Major in `GIS` and `urban spatial analytics`
-- 🧠 Always curious about the world, next step maybe `digital humanities` or `computational arts`? I don't know.
-- 📫 ins：Shevil__
+- 👋 Hi, I’m Haobing Liu, and my friends call me Hebe
+- 🎨 GISer | Urban Analyst | Cartographer | Designer | Shutterbug
+- 🌍 Major in `GIS` and `urban spatial analytics`, diving into data feminism, community development and human geography, next step maybe `digital humanities` or `computational arts`? I don't know.
+- 🧠 Always curious about the world, attracted by films and arts, and I've watched thousands of movies.
+- 📫 ins: Shevil__
+- 📩 contact me: hbliu@design.upenn.edu
 
 <!---
 shevilovia/shevilovia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

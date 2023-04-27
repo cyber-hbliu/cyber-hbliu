@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Haobing Liu, and my friends call me Hebe
+- 👋 Hi, I’m Haobing Liu, also as Hebe Liu
 - 🎨 GISer | Urban Analyst | Cartographer | Designer | Shutterbug
 - 🌍 Major in `GIS` and `urban spatial analytics`, diving into data feminism, community development and human geography
 - 👣 Next step maybe `digital humanities` or `computational arts`? I don't know, but always open to the unknown

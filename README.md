@@ -4,6 +4,7 @@
 - 👣 Next step maybe `digital humanities` or `computational arts`? I don't know, but always open to the unknown
 - 🧠 Always curious about the world, attracted by films and arts, and I've watched thousands of movies.
 - 📧 Ins: Shevil__ | Email: hbliu@design.upenn.edu
+- 👀 Check out my works: http://hbliu.page
 
 <!---
 shevilovia/shevilovia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -4,7 +4,7 @@
 - 🍻 Diving into `data feminism`, `community development`, `urban inequality` and `transportation`
 - 🧠 Curious about the unknown and the mysterious
 - 📧 Ins: Shevil__ | Email: cyberhebe@gmail.com
-- 👀 Check out my current works: http://hbliu.page
+- 👀 Dig out more on my website: www.hebeliu.com
 
 <!---
 shevilovia/shevilovia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

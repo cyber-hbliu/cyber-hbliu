@@ -3,7 +3,7 @@
 - 🌍 Major in `GIS` and `urban spatial analytics`
 - 🍻 Diving into `data feminism`, `community development`, `urban inequality` and `transportation`
 - 🧠 Curious about the unknown and the mysterious
-- 📧 Ins: Shevil__ | Email: cyberhebe@gmail.com
+- 📧 Email: cyberhebe@gmail.com
 - 👀 Dig out more on my website: www.hebeliu.com
 
 <!---

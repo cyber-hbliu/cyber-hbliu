@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hebe Liu
 - 🎨 GISer | Geospatial Data Scientist | Shutterbug | Film Goer
 - 🌍 Major in `GIS` and `urban spatial analytics`
-- 🍻 Diving into `data feminism`, `community development`, `urban inequality` and `transportation`
+- 🍻 Diving into `Data Feminism`, `Urban Inequality`, `Risk Analysis` and `GeoAI`
 - 🧠 Curious about the unknown and the chaotic
 - 📧 Email me via cyberhebe@gmail.com
 - 👀 Dig out more on my website: www.cyberhbl.com

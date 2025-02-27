@@ -4,6 +4,7 @@
 - 🍻 Diving into `Data Feminism`, `Urban Inequality`, `Risk Analysis` and `GeoAI`
 - 🧠 Curious about the unknown and the chaotic
 - 📧 Email me via cyberhebe@gmail.com
+- 👩🏻‍🎨 Based in Philadelphia, working in a nonprofit, proud of my aesthetics and insights
 - 👀 Dig out more on my website: www.cyberhbl.com
 
 <!---

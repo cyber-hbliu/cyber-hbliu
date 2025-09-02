@@ -7,7 +7,7 @@
 - 📧 Email me via cyberhebe@gmail.com
 - 👀 Dig out more on my website: www.cyberhbl.com
 
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-hbliu&layout=compact)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-hbliu&layout=compact)
 
 <!---
 shevilovia/shevilovia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

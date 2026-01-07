@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hebe Liu
 - 🎨 GISer | Geospatial Data Scientist | Shutterbug | Film Goer
 - 🌍 Major in `GIS` and `urban spatial analytics`
-- 🍻 Diving into `Data Feminism`, `Urban Inequality`, `Geodemography` and `Socioeconomic/Sociospatial`
+- 🍻 Diving into `Data Feminism`, `Urban Equality and Justice`, `Geodemography` and `Socioeconomic/Sociospatial`
 - 🧠 Curious about the unknown and the chaotic
 - 👩🏻‍🎨 Based in Philadelphia, working in a nonprofit, proud of my aesthetics and insights
 - 📧 Email me via cyberhebe@gmail.com

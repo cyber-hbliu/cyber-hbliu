@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hebe Liu
-- 🎨 GISer | Geospatial Data Scientist | Shutterbug | Film Goer
+- 🎨 GISer | Geospatial Data Scientist | Shutterbug | Film Buff
 - 🌍 Major in `GIS` and `urban spatial analytics`
 - 🍻 Diving into `Data Feminism`, `Urban Equality and Justice`, `Geodemography` and `Socioeconomic/Sociospatial`
 - 🧠 Curious about the unknown and the chaotic

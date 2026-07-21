@@ -3,7 +3,7 @@
 - 🌍 Major in `GIS` and `urban spatial analytics`
 - 🍻 Diving into `Data Feminism`, `Urban Equality and Justice`, `Geodemography` and `Socioeconomic/Sociospatial`
 - 🧠 Curious about the unknown and the chaotic
-- 👩🏻‍🎨 Based in Philadelphia, working in a nonprofit, proud of my aesthetics and insights
+- 👩🏻‍🎨 Based in Philadelphia, working in a nonprofit, proud of my aesthetic and creation!
 - 📧 Email me via cyberhebe@gmail.com
 - 👀 Dig out more on my website: www.cyberhbl.com
 
